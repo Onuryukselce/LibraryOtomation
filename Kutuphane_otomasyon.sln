@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kutuphane_otomasyon", "Kutuphane_otomasyon\Kutuphane_otomasyon.csproj", "{B32CBF68-35D0-4E62-A128-E223A4574B1E}"
+EndProject
+Project("{ACA99D24-2A4B-4C16-9E92-13D6ABC4AC35}") = "KutuphaneOtomasyonSetup", "KutuphaneOtomasyonSetup\KutuphaneOtomasyonSetup.isproj", "{6C08639E-461C-4E04-A886-1E5D0CB26F4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Custom|Any CPU = Custom|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-10|Any CPU = DVD-10|Any CPU
+		DVD-18|Any CPU = DVD-18|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		DVD-9|Any CPU = DVD-9|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+		WebDeployment|Any CPU = WebDeployment|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.Custom|Any CPU.ActiveCfg = Release|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.Custom|Any CPU.Build.0 = Release|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.DVD-10|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.DVD-10|Any CPU.Build.0 = Debug|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.DVD-18|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.DVD-18|Any CPU.Build.0 = Debug|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.DVD-9|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.DVD-9|Any CPU.Build.0 = Debug|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.WebDeployment|Any CPU.ActiveCfg = Release|Any CPU
+		{B32CBF68-35D0-4E62-A128-E223A4574B1E}.WebDeployment|Any CPU.Build.0 = Release|Any CPU
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.Custom|Any CPU.ActiveCfg = Custom
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.Custom|Any CPU.Build.0 = Custom
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.Debug|Any CPU.ActiveCfg = DVD-10
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.Debug|Any CPU.Build.0 = DVD-10
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.DVD-10|Any CPU.ActiveCfg = DVD-10
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.DVD-10|Any CPU.Build.0 = DVD-10
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.DVD-18|Any CPU.ActiveCfg = DVD-18
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.DVD-18|Any CPU.Build.0 = DVD-18
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.DVD-5|Any CPU.Build.0 = DVD-5
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.DVD-9|Any CPU.ActiveCfg = DVD-9
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.DVD-9|Any CPU.Build.0 = DVD-9
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.Release|Any CPU.ActiveCfg = Custom
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.Release|Any CPU.Build.0 = Custom
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.SingleImage|Any CPU.Build.0 = SingleImage
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.WebDeployment|Any CPU.ActiveCfg = WebDeployment
+		{6C08639E-461C-4E04-A886-1E5D0CB26F4D}.WebDeployment|Any CPU.Build.0 = WebDeployment
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF610DFA-2848-46DA-8331-A140AC5EB0F3}
+	EndGlobalSection
+EndGlobal

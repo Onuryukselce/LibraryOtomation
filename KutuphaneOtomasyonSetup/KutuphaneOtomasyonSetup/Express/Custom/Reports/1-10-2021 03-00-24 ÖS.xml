@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="D:\isw\Support\0409\buildreport.xsl"?>
+<BuildReport ProductName="KutuphaneOtomasyonSetup" ProductVersion="1.00.0000" Built="1-10-2021 03-00-24 ÖS" Media="Custom" Uncompressed="0.00 MB">
+  <Features>
+    <Feature Title="##DN_AlwaysInstall##" Description="Enter the description for this feature here." Comment="Enter comments regarding this feature here.">AlwaysInstall</Feature>
+  </Features>
+  <Prerequisites />
+  <MergeModules />
+  <DynamicLinks />
+  <Files>
+    <File Destination="[ProgramFilesFolder]182113021_OnurYuksel_NO\KutuphaneOtomasyon" Feature="Always Install" Modified="10.01.2021 14:59:50" Size="1881" Version="">Kutuphane_otomasyon.application</File>
+    <File Destination="[ProgramFilesFolder]182113021_OnurYuksel_NO\KutuphaneOtomasyon" Feature="Always Install" Modified="11.09.2020 19:18:28" Size="261" Version="">Kutuphane_otomasyon.exe.config</File>
+    <File Destination="[ProgramFilesFolder]182113021_OnurYuksel_NO\KutuphaneOtomasyon" Feature="Always Install" Modified="10.01.2021 14:59:50" Size="4243" Version="">Kutuphane_otomasyon.exe.manifest</File>
+    <File Destination="[ProgramFilesFolder]182113021_OnurYuksel_NO\KutuphaneOtomasyon" Feature="Always Install" Modified="10.01.2021 14:59:50" Size="212480" Version="">Kutuphane_otomasyon.pdb</File>
+    <File Destination="[ProgramFilesFolder]182113021_OnurYuksel_NO\KutuphaneOtomasyon" Feature="Always Install" Modified="10.01.2021 14:26:57" Size="1208320" Version="">Library.mdb</File>
+    <File Destination="[ProgramFilesFolder]182113021_OnurYuksel_NO\KutuphaneOtomasyon" Feature="Always Install" Modified="10.01.2021 14:36:04" Size="96" Version="">Settings.ini</File>
+    <File Destination="[ProgramFilesFolder]182113021_OnurYuksel_NO\KutuphaneOtomasyon" Feature="Always Install" Modified="10.01.2021 14:59:50" Size="200192" Version="1.0.0.0">Kutuphane_otomasyon.exe</File>
+    <File Destination="[ProgramFilesFolder]182113021_OnurYuksel_NO\KutuphaneOtomasyon" Feature="Always Install" Modified="12.12.2008 17:01:34" Size="307200" Version="5.1.5.28844">ZedGraph.dll</File>
+    <File Destination="[ProgramFilesFolder]182113021_OnurYuksel_NO\KutuphaneOtomasyon" Feature="Always Install" Modified="12.12.2008 17:01:38" Size="4608" Version="5.1.5.28844">ZedGraph.resources.dll</File>
+  </Files>
+</BuildReport>

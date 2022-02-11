@@ -1,0 +1,53 @@
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.csprojAssemblyReference.cache
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.Properties.Resources.resources
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.csproj.GenerateResource.cache
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\bin\Release\Library.mdb
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\bin\Release\Kutuphane_otomasyon.exe.config
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\bin\Release\Kutuphane_otomasyon.exe
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\bin\Release\Kutuphane_otomasyon.pdb
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.exe
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.pdb
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.MainForm.resources
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.MemberForm.resources
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.MemberMenu.resources
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.AddMemberForm.resources
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.BookForm.resources
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.BookMenu.resources
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.AddBookForm.resources
+C:\Users\Onur\Desktop\ykup ödev\Kutuphane_otomasyon\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.StockForm.resources
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.csprojAssemblyReference.cache
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.AddBookForm.resources
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.AddMemberForm.resources
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.BookForm.resources
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.BookMenu.resources
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.MainForm.resources
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.MemberForm.resources
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.MemberMenu.resources
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.Properties.Resources.resources
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.StockForm.resources
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.csproj.GenerateResource.cache
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.exe
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.pdb
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\bin\Release\Kutuphane_otomasyon.exe.config
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\bin\Release\Kutuphane_otomasyon.exe
+C:\Users\Onur\Desktop\ODEV\Kutuphane_otomasyon\bin\Release\Kutuphane_otomasyon.pdb
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.csprojAssemblyReference.cache
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.BookForm.resources
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.DepositForm.resources
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.DepositGraph.resources
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.MainForm.resources
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.MemberForm.resources
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.Properties.Resources.resources
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.Settings.resources
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.csproj.GenerateResource.cache
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.csproj.CoreCompileInputs.cache
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.exe
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.pdb
+D:\Gorsel ODev\Kutuphane_otomasyon\bin\Release\Kutuphane_otomasyon.exe.config
+D:\Gorsel ODev\Kutuphane_otomasyon\bin\Release\Kutuphane_otomasyon.exe.manifest
+D:\Gorsel ODev\Kutuphane_otomasyon\bin\Release\Kutuphane_otomasyon.application
+D:\Gorsel ODev\Kutuphane_otomasyon\bin\Release\Kutuphane_otomasyon.exe
+D:\Gorsel ODev\Kutuphane_otomasyon\bin\Release\Kutuphane_otomasyon.pdb
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.exe.manifest
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.application
+D:\Gorsel ODev\Kutuphane_otomasyon\obj\Release\Kutuphane_otomasyon.csproj.CopyComplete
